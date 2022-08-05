@@ -1,5 +1,5 @@
 # Assignment Overview
-### Fragmenting a database means requires query processing to fetch the required data in multiple fragments or even all fragments.
+### Fragmenting a database means that the query processing function should fetch the required data in multiple fragments or even all fragments.
 
 ## Project Instructions
 - Implement the point and range queries in Python for  the (range and round-robin) fragmented  tables from the previous assignment.
