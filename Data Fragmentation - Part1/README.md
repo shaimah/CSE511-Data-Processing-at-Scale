@@ -1,5 +1,5 @@
 # Assignment Overview
-### The benefits of parallel computing extend to Distributed Database Systems. Leading e-commerce use a distributed database as it allows mutltiple servers to run queries by their customers. 
+### The benefits of parallel computing extend to Distributed Database Systems. Leading e-commerce companies use a distributed database as it allows mutltiple servers to run queries by their customers. 
 
 ### Given that portions of the data are stored in different sites, both data fragmentation and replication models are used to enable such data distribution. 
 
